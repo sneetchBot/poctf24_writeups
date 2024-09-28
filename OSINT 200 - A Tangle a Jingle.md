@@ -17,7 +17,8 @@ Looking up the phone number, we found the business address in the UK. From Googl
 ### :triangular_flag_on_post: The Flag!!
 
 Using the phone # as the password to the zip file we get
-:::spoiler
-poctf{uwsp_1_h4v3_4_dr34m}
-:::
+<details> 
+        <summary>Using the phone # as the password to the zip file we get</summary> 
+         poctf{uwsp_1_h4v3_4_dr34m}
+</details>    
         

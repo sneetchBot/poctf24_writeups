@@ -1,8 +1,7 @@
 ## UWSPpoctf2024- A Tangle a Jingle
 
-:::info
-:bulb: This is a writeup for the 'A Tangle a Jingle' challenge in poctf.
-:::
+> [!NOTE]
+> This is a writeup for the 'A Tangle a Jingle' challenge in poctf.
 
 ### :eight_spoked_asterisk: The Challenge
 

@@ -14,7 +14,6 @@ Looking up the phone number, we found the business address in the UK. From Googl
 ![Telephone# on left shopfront](https://github.com/sneetchBot/poctf24_writeups/blob/812992c2ccfab92f546fd677425126bab78c7664/pictures/upload_d52678cc6ba40a13156320ccb9f61a2d.png)
 
 ### :triangular_flag_on_post: The Flag!!
-Using the phone # as the password to the zip file we get
 <details> 
         <summary>Using the phone # as the password to the zip file we get</summary> 
          poctf{uwsp_1_h4v3_4_dr34m}

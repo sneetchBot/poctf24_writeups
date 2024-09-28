@@ -7,7 +7,7 @@
 
 Sometimes I like to try to find the exact location where a photo was taken. A little OSINT exercise I do sometimes to keep my skills sharp. This image was posted to a social media platform last year. I was able to find where it was taken, and if you can too then you will see that there is a business just out of frame, across the street from the building on the corner, to the left of the bollards. The phone number on their sign is the password to the archive (no spaces or special characters.)
 <picture>
- <source srcset="![image](https://github.com/user-attachments/assets/e83f8962-58cb-46e6-824b-cc0f3f5bba67)">
+ <source srcset="![image](upload_935153b42d772c196351a146de935a62)">
 </picture>
 
 ### :mag_right: Solution

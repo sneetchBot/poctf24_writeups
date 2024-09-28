@@ -1,8 +1,8 @@
 ## UWSPpoctf2024- Understanding Nonsense
 
-:::info
-:bulb: This is a writeup for the 'Understanding Nonense' challenge in poctf.
-:::
+> [!NOTE]
+> This is a writeup for the 'Understanding Nonense' challenge in poctf.
+
 
 ### :eight_spoked_asterisk: The Challenge
 
@@ -44,9 +44,10 @@ Looking at the function declarations above, I saw a function called reverse_modi
     
 I got 706f6374667b757773705f627233763137795f31355f3768335f353075317d which is the flag in Hex
 ### :triangular_flag_on_post: The Flag!!
+<details>
+    <summary>Translating with CyberChef </summary>
+    poctf{uwsp_br3v17y_15_7h3_50u1}
+</details>
 
-Translating with CyberChef 
-:::spoiler
-poctf{uwsp_br3v17y_15_7h3_50u1}
-:::
+
         

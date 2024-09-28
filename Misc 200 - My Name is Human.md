@@ -5,7 +5,7 @@
 
 ### :eight_spoked_asterisk: The Challenge
 
-![Screenshot 2024-09-26 at 10.46.28 AM]([https://hackmd.io/_uploads/B15bAzmR0.png](https://pointeroverflowctf.com/static/Misc200-1.png))
+![Screenshot 2024-09-26 at 10.46.28 AM](https://github.com/sneetchBot/poctf24_writeups/blob/ba3346278be5f18bca066b72be71be58dba31653/pictures/image.png)
 poctf{uwsp_[8][6][3]_[5][7][1][2][4]}
 
 ### :mag_right: Solution

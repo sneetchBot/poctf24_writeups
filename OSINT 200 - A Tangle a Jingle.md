@@ -11,7 +11,7 @@ Sometimes I like to try to find the exact location where a photo was taken. A li
 ### :mag_right: Solution
 I couldn't actually save the image so I dispayed a screenshot of it. Doing a Google Image Search, I found a [Reddit post](https://www.reddit.com/r/pics/comments/1avt0nk/some_sky_pictures_from_my_paper_round/?rdt=50323) from 7 months ago with the exact image. Reddit reduces image quality unless you have an account so I created an account. The improved image quality helped us read the phone number on the red storefront.
 Looking up the phone number, we found the business address in the UK. From Google Street View, the phone number on the shopfront to the left is:
-![Telephone# on left shopfront](pictures/upload_d52678cc6ba40a13156320ccb9f61a2dg.png)
+![Telephone# on left shopfront](https://github.com/sneetchBot/poctf24_writeups/blob/812992c2ccfab92f546fd677425126bab78c7664/pictures/upload_d52678cc6ba40a13156320ccb9f61a2d.png)
 
 ### :triangular_flag_on_post: The Flag!!
 Using the phone # as the password to the zip file we get

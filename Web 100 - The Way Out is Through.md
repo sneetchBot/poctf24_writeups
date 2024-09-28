@@ -1,8 +1,7 @@
 ## UWSPpoctf2024- The Way Out is Through
 
-:::info
-:bulb: This is a writeup for the 'The Way Out is Through' challenge in poctf.
-:::
+> [!NOTE]
+> This is a writeup for the 'The Way Out is Through' challenge in poctf.
 
 ### :eight_spoked_asterisk: The Challenge
 
@@ -43,9 +42,8 @@ I wasn't seeing anything standout so I decided to view source where I found some
 To solve parts 1 and 2, I copied both lines into a js web editor and printed into the console. Part 3 refered to the document.cookie variable. When coverted from hex, the variable becomes 7h3 which is the same as the value of the cookie when viewed in inspect element. For parts 4 and 5, I coverted from Base64 and Hex respectively. Combining all 5 parts, I got the flag.
 
 ### :triangular_flag_on_post: The Flag!!
+<details>
+    <summary>Running the shell command, we get the flag</summary>
+    poctf{uwsp_7h3_7ru7h_15_0u7_7h3r3}
 
-Running the shell command, we get the flag
-:::spoiler
-poctf{uwsp_7h3_7ru7h_15_0u7_7h3r3}
-:::
-        
+</details>

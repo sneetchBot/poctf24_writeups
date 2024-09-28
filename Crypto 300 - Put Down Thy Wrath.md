@@ -1,8 +1,7 @@
 ## UWSPpoctf2024- Put Down Thy Wrath
 
-:::info
-:bulb: This is a writeup for the 'Put Down Thy Wrath' challenge in poctf.
-:::
+> [!NOTE]
+> This is a writeup for the 'Put Down Thy Wrath' challenge in poctf.
 
 ### :eight_spoked_asterisk: The Challenge
 
@@ -22,8 +21,6 @@ The solution ended up being in the code file due to an error while posting the c
 An error in the deployment of Crypto 300 - Put Down Thy Wrath causes the challenge to be much easier than intended due to the linking of a script form testing instead of the final version. 
 
 ### :triangular_flag_on_post: The Flag!!
+<details>poctf{uwsp_T3mp357_4nd_7urnm01l}</details>
 
-:::spoiler
-poctf{uwsp_T3mp357_4nd_7urnm01l}
-:::
         

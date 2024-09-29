@@ -14,7 +14,7 @@ https://nvstgt.com/TTiOT/index.html
 Clicking on the instance link, we are redirected to a website displaying a Not Found error.
 </p>
 
-![Screenshot 2024-09-25 at 4.23.40 PM](https://hackmd.io/_uploads/r132sfGC0.png)
+![Screenshot]([https://hackmd.io/_uploads/r132sfGC0.png](https://github.com/sneetchBot/poctf24_writeups/blob/442463993c9758a0f28acabf5175264fb37ffc95/pictures/upload_c38e8954d5123144ed51c9a0cd384381.png))
 
 
 <p>

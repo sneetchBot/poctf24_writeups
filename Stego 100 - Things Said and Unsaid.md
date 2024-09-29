@@ -5,7 +5,7 @@
 
 ### :eight_spoked_asterisk: The Challenge
 
-![Challege-Image](./pictures/Stego100.3.jpeg)
+![Challege-Image](/Users/hunterkang/poctf24_writeups/pictures/image.png)
 
 ### :mag_right: Solution
 This is a pretty simple stegonography challenge. I obtained the flag through the following steps:
